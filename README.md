@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 Hi, my name is Rachel Smith and I'm learning Python.
 
 ### Markdown
