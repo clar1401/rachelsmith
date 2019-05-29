@@ -2,8 +2,7 @@ Hi, my name is Rachel Smith and I'm learning Python.
 
 I created this webpage to share what I'm lerning. 
 
-Here's my [very first program] (
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+Here is my very [first program!](https://repl.it/repls/myfirstpythonprogram)
 
 ### Markdown
 
@@ -12,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+H
+It's very easy to make some words **bold** and other words *italic* with Markdown. 
 **This is a Header**
 This is a header
 ## Header 2
