@@ -1,5 +1,10 @@
 Hi, my name is Rachel Smith and I'm learning Python.
 
+I created this webpage to share what I'm lerning. 
+
+Here's my [very first program] (
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -7,7 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+**This is a Header**
+This is a header
 ## Header 2
 ### Header 3
 
